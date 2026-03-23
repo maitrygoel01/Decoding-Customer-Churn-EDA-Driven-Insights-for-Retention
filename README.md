@@ -1,12 +1,6 @@
 # Decoding-Customer-Churn-EDA-Driven-Insights-for-Retention
 Performed customer churn analysis using EDA by cleaning and transforming data, and analyzing factors like tenure, contract type, services, and payment methods. Identified key patterns showing churn is driven by customer engagement and behavior, enabling data-driven strategies to improve retention and decision-making.
 
-# 🚀 Decoding Customer Churn: Data-Driven Insights for Retention
-
-> Turning raw customer data into actionable business decisions.
-
----
-
 ## 📌 Project Overview
 Customer churn is a critical challenge for subscription-based businesses. In this project, I conducted **data-driven exploratory data analysis (EDA)** to identify key factors influencing customer churn and translate findings into **actionable retention strategies**.
 
